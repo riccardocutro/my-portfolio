@@ -20,7 +20,7 @@ export const PROJECTS: Project[] = [
     title: 'Portfolio Next.js',
     description: 'Sito personale interattivo realizzato per sperimentare React, Next.js App Router e Tailwind CSS.',
     technologies: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
-    githubUrl: 'https://github.com/tuo-user/portfolio',
+    githubUrl: 'https://github.com/riccardocutro/my-portfolio',
   },
   {
     id: '3',
